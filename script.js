@@ -64,7 +64,7 @@ const ZDM_CONFIG = {
          */
 
         apiKey:
-            "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",
+            "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",
 
         model:
             "openai/gpt-oss-120b",
